@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="CalculadoraXamarin.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CalculadoraXamarin"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+    <StackPanel Padding="20" >
+        <TextBlock Text="Calculadora" FontSize="50px"></TextBlock>
+
+        <TextBox x:Uid="sum1"  x:Name="sum1" PlaceholderText="introduce una cantidad"  Margin="20"></TextBox>
+        <TextBox x:Uid="sum2" x:Name="sum2"    PlaceholderText="introduce una cantidad"  Margin="20"></TextBox>
+
+        <TextBlock Text="Operaciones" FontSize="20px"></TextBlock>
+        <StackPanel Orientation="Horizontal">
+
+            <Button x:Uid="Btnsuma" x:Name="Btnsuma" Margin="20" Content="+"  Width="40" Click="Button_Click"></Button>
+            <Button x:Uid="Btnresta" x:Name="Btnresta" Margin="20" Content="-" Width="40" Click="Button_Click"></Button>
+            <Button x:Uid="BtnMult" x:Name="BtnMult" Margin="20" Content="*" Width="40" Click="Button_Click"></Button>
+            <Button x:Uid="BtnDiv" x:Name="BtnDiv" Margin="20" Content="/" Width="40" Click="Button_Click"></Button>
+        </StackPanel>
+
+        <TextBox x:Uid="Result" x:Name="Result" PlaceholderText="Resultado"  IsReadOnly="True"  Margin="20"></TextBox>
+    </StackPanel>
+
+</Page>

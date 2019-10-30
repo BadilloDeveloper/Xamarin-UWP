@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="AppDelegadosEventos.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppDelegadosEventos"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+        <TextBlock x:ConnectionId='2' x:Name="textBlock1" HorizontalAlignment="Left" Height="33" Margin="28,15,0,0" Text="Delegados y eventos" TextWrapping="Wrap" VerticalAlignment="Top" Width="206"/>
+        <TextBlock x:ConnectionId='3'  x:Name="textBlock2" HorizontalAlignment="Left" Height="59" Margin="36,24,0,0" Text="Colores" TextWrapping="Wrap" VerticalAlignment="Top" Width="375" FontSize="50px"/>
+        <Rectangle x:ConnectionId='4' x:Name="rectColor1" HorizontalAlignment="Left" Fill="Blue" Height="43" Margin="10,91,0,0" Stroke="Black" VerticalAlignment="Top" Width="49"                           />
+        <Rectangle x:ConnectionId='5' x:Name="rectColor2" HorizontalAlignment="Left" Fill="Green" Height="43" Margin="70,91,0,0" Stroke="Black" VerticalAlignment="Top" Width="49"                           />
+        <Rectangle x:ConnectionId='6' x:Name="rectColor3" HorizontalAlignment="Left" Fill="Red" Height="43" Margin="132,91,0,0" Stroke="Black" VerticalAlignment="Top" Width="49"                           />
+        <Rectangle x:ConnectionId='7' x:Name="rectColor4" HorizontalAlignment="Left" Fill="Yellow" Height="43" Margin="202,91,0,0" Stroke="Black" VerticalAlignment="Top" Width="49" RenderTransformOrigin="2.041,0.526"                                       />
+
+        <Canvas x:ConnectionId='8' HorizontalAlignment="Center" Height="443" Margin="0,152,0,0" VerticalAlignment="Top" Width="432" x:Name="mycanvas"                                      >
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Aqua" Offset="0.714"></GradientStop>
+                    <GradientStop Color="white" Offset="1"></GradientStop>
+                    <GradientStop Color="White" ></GradientStop>
+                    <GradientStop Color="Aqua" Offset="0.3"></GradientStop>
+
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Rectangle x:ConnectionId='9' x:Name="rectColor5" Height="74" Canvas.Left="28" Stroke="Black" Canvas.Top="62" Width="147" Fill="Gray" />
+            <Ellipse x:ConnectionId='10' x:Name="rectColor6" Height="92" Canvas.Left="288" Stroke="Black" Canvas.Top="53" Width="107" RenderTransformOrigin="0.465,-0.091" Fill="Gray"/>
+            <Ellipse Height="92" Canvas.Left="48" Stroke="Black" Canvas.Top="274" Width="107" RenderTransformOrigin="0.465,-0.091" Fill="White"/>
+            <Rectangle Height="172" Canvas.Left="288" Stroke="Black" Canvas.Top="222" Width="107" Fill="White"/>
+
+        </Canvas>
+
+
+
+
+
+
+
+    </Grid>
+</Page>
+

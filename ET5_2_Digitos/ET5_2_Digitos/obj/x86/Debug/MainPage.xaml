@@ -1,0 +1,74 @@
+﻿<Page
+    x:Class="ET5_2_Digitos.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ET5_2_Digitos"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        
+        <!--<Grid.RowDefinitions>
+            <RowDefinition ></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            
+            
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBox  Grid.ColumnSpan="3">  </TextBox>
+        <Button  Grid.Row="1" Grid.Column="1" Name="btn1" Height="192" Width="134">1</Button>
+        <Rectangle Fill="Black" Grid.Row="1" Grid.Column="2" ></Rectangle>
+        <Rectangle Fill="red" Grid.Row="1" Grid.Column="0"></Rectangle>
+        <Rectangle Fill="Green" Grid.Row="2" Grid.Column="1"></Rectangle>
+        <Rectangle Fill="Black" Grid.Row="2" Grid.Column="2" ></Rectangle>
+        <Rectangle Fill="red" Grid.Row="2" Grid.Column="0"></Rectangle>
+        <Rectangle Fill="Green" Grid.Row="3" Grid.Column="1"></Rectangle>
+        <Rectangle Fill="Black" Grid.Row="3" Grid.Column="2" ></Rectangle>
+        <Rectangle Fill="red" Grid.Row="3" Grid.Column="0"></Rectangle>-->
+
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:ConnectionId='18' x:Name="Resultado" Height="100" Width="400px" Text="" FontSize="40" IsReadOnly="True"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:ConnectionId='14'  Height="100" Width="100px" Name="uno"                  >1</Button>
+                <Button x:ConnectionId='15'   Height="100" Width="100px" Name="dos"                 >2</Button>
+                <Button x:ConnectionId='16'  Height="100" Width="100px" Name="tres"                 >3</Button>
+                <Button x:ConnectionId='17'  Height="100" Width="100px" Name="sum"                 >+</Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" >
+                <Button x:ConnectionId='10'  Height="100" Width="100px" Name="cuatro"                 >4</Button>
+                <Button x:ConnectionId='11'  Height="100" Width="100px" Name="cinco"                 >5</Button>
+                <Button x:ConnectionId='12'   Height="100" Width="100px" Name="seis"                 >6</Button>
+                <Button x:ConnectionId='13'  Height="100" Width="100px" Name="rest"                  >-</Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:ConnectionId='6' Height="100" Width="100px" Name="siete"                 >7</Button>
+                <Button x:ConnectionId='7'  Height="100" Width="100px" Name="ocho"                 >8</Button>
+                <Button x:ConnectionId='8'   Height="100" Width="100px" Name="nueve"                 >9</Button>
+                <Button x:ConnectionId='9'  Height="100" Width="100px" Name="mult"                 >*</Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:ConnectionId='2' Height="100" Width="100px" Name="borra"                 >C</Button>
+                <Button x:ConnectionId='3'  Height="100" Width="100px" Name="cero"                 >0</Button>
+                <Button x:ConnectionId='4'   Height="100" Width="100px" Name="coma"                 >,</Button>
+                <Button x:ConnectionId='5'  Height="100" Width="100px" Name="igual"                  >=</Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                
+               
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Page>
+

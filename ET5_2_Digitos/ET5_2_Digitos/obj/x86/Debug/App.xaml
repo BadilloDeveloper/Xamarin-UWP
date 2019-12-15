@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="ET5_2_Digitos.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ET5_2_Digitos">
+
+</Application>
+

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ET6_1.MainPage">
+
+    <StackLayout
+        >
+        <!-- Place new controls here -->
+        <Label 
+            x:Name="lblTiempo"
+            Text="--:-- PM" 
+            HorizontalTextAlignment="Center"
+            TextColor="Black"
+           VerticalOptions="EndAndExpand" 
+            BackgroundColor="#FF8080"
+          
+            FontSize="Large"
+            />
+
+        <!-- Place new controls here -->
+        <Label
+            x:Name="fecha"
+            Text="--/--/----" 
+            IsVisible="True"
+         
+            HorizontalTextAlignment="Center"
+            TextColor="Black"
+           VerticalOptions="StartAndExpand"
+            BackgroundColor="#FF8080"
+            FontAttributes="Bold"
+             FontSize="Large"/>
+
+
+        <Label
+            x:Name="lbldevice"
+            Text="" 
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            BackgroundColor="#FF8080"
+            FontAttributes="Bold,Italic"
+            FontSize="Large"/>
+
+
+       
+
+
+    </StackLayout>
+
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                    iOS="0,20,0,0">
+            
+            
+        </OnPlatform>
+        
+        
+    </ContentPage.Padding>
+
+</ContentPage>
+    

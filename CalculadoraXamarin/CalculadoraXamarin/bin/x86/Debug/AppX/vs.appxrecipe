@@ -30,13 +30,13 @@
     <AppXManifest Include="E:\Codigo\RepositorioGithub\Xamarin\CalculadoraXamarin\CalculadoraXamarin\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-30T19:22:40.415</Modified>
+      <Modified>2019-11-14T22:01:21.437</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\Codigo\RepositorioGithub\Xamarin\CalculadoraXamarin\CalculadoraXamarin\bin\x86\Debug\CalculadoraXamarin.exe">
       <PackagePath>entrypoint\CalculadoraXamarin.exe</PackagePath>
-      <Modified>2019-10-30T19:22:39.690</Modified>
+      <Modified>2019-11-14T22:01:20.782</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -106,7 +106,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Codigo\RepositorioGithub\Xamarin\CalculadoraXamarin\CalculadoraXamarin\bin\x86\Debug\Core\CalculadoraXamarin.exe">
       <PackagePath>CalculadoraXamarin.exe</PackagePath>
-      <Modified>2019-10-30T19:22:40.394</Modified>
+      <Modified>2019-11-14T22:01:21.417</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

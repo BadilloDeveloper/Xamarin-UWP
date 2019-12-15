@@ -1,0 +1,13 @@
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\bin\Debug\netstandard2.0\ET6_1.deps.json
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\bin\Debug\netstandard2.0\ET6_1.dll
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\bin\Debug\netstandard2.0\ref\ET6_1.dll
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\bin\Debug\netstandard2.0\ET6_1.pdb
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\obj\Debug\netstandard2.0\ET6_1.csprojAssemblyReference.cache
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\obj\Debug\netstandard2.0\ET6_1.AssemblyInfoInputs.cache
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\obj\Debug\netstandard2.0\ET6_1.AssemblyInfo.cs
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\obj\Debug\netstandard2.0\ET6_1.dll
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\obj\Debug\netstandard2.0\ref\ET6_1.dll
+E:\Codigo\RepositorioGithub\Xamarin\ET6_1\ET6_1\ET6_1\obj\Debug\netstandard2.0\ET6_1.pdb

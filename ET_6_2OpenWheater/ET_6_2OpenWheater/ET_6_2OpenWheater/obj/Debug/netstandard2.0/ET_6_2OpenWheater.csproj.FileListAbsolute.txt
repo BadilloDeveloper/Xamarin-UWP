@@ -1,0 +1,13 @@
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\bin\Debug\netstandard2.0\ET_6_2OpenWheater.deps.json
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\bin\Debug\netstandard2.0\ET_6_2OpenWheater.dll
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\obj\Debug\netstandard2.0\ET_6_2OpenWheater.AssemblyInfoInputs.cache
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\obj\Debug\netstandard2.0\ET_6_2OpenWheater.AssemblyInfo.cs
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\obj\Debug\netstandard2.0\ET_6_2OpenWheater.dll
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\obj\Debug\netstandard2.0\ref\ET_6_2OpenWheater.dll
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\obj\Debug\netstandard2.0\ET_6_2OpenWheater.pdb
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\bin\Debug\netstandard2.0\ref\ET_6_2OpenWheater.dll
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\bin\Debug\netstandard2.0\ET_6_2OpenWheater.pdb
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\obj\Debug\netstandard2.0\ET_6_2OpenWheater.csprojAssemblyReference.cache
+E:\Codigo\RepositorioGithub\Xamarin\ET_6_2OpenWheater\ET_6_2OpenWheater\ET_6_2OpenWheater\obj\Debug\netstandard2.0\XamlC.stamp
